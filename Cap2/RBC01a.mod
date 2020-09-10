@@ -15,9 +15,6 @@ varexo e_z e_g;
 parameters alpha delta betta theta rho_z rho_g 
 z_ss lab_ss r_ss  kap_ss w_ss y_ss c_ss inv_ss g_ss C_Y I_Y G_Y;
 
-//load parameters_mat;
-//set_param_value('alpha',alpha)
-
 alpha  = 1-0.33;
 delta  = 0.023;
 betta  = 0.99;
