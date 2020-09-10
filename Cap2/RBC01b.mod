@@ -46,7 +46,7 @@ z = rho_z*z(-1) + e_z;
 g = rho_g*g(-1) + e_g;
 end;
 
-initval;
+steady_state_model;
 lab = 0; 
 c = 0; 
 w = 0; 
