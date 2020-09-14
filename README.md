@@ -27,4 +27,4 @@ Capitulos
 
 9️⃣ Politica fiscal en modelos NK
 
-Nota: Las tildes no se han usado intencionalmente.
+*Nota: Las tildes no se han usado intencionalmente*.
