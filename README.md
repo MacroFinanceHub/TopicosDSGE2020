@@ -6,7 +6,7 @@ Hemos dividido los archivos por carpetas, de acuerdo a como aparecen en nuestras
 
 Cualquier sugerencia sobre  el curso, los modelos estudiados o los codigos escribirme a: **carojasq@eco.uc3m.es**
 
-1️⃣ Introduccion
+1️⃣ Introduccion \\
 2️⃣ Modelo RBC basico
 3️⃣ Variaciones al modelo RBC basico
 4️⃣ Economia abierta en modelos RBC
