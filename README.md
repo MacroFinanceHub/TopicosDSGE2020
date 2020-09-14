@@ -6,12 +6,22 @@ Hemos dividido los archivos por carpetas, de acuerdo a como aparecen en nuestras
 
 Cualquier sugerencia sobre  el curso, los modelos estudiados o los codigos escribirme a: **carojasq@eco.uc3m.es**
 
-1️⃣ Introduccion \\
+1️⃣ Introduccion
+
 2️⃣ Modelo RBC basico
+
 3️⃣ Variaciones al modelo RBC basico
+
 4️⃣ Economia abierta en modelos RBC
+
 5️⃣ Politica fiscal en modelos RBC
+
 6️⃣ Modelo Neokeynesiano basico
+
 7️⃣ Variaciones al modelo NK basico
+
 8️⃣ Economia abierta en modelos NK
+
 9️⃣ Politica fiscal en modelos NK
+
+Nota: Las tildes no se han usado intencionalmente.
