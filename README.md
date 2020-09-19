@@ -1,6 +1,6 @@
 # Topicos de modelos DSGE, 2020
 
-Bienvenidos al curso de Topicos de modelos DSGE en Dynare (Setiembre 2020). En este repositorio usted encontrara todo el material que utilizamos para el desarrollo de los temas que tratamos, incluyendo los archivos .mod, databases (de Peru y USA) y scripts de Matlab. 
+Bienvenidos al curso de Topicos de modelos DSGE en Dynare (Setiembre 2020). En este repositorio usted encontrara todo el material que utilizamos en el curso, incluyendo los archivos .mod, databases (de Peru y USA) y scripts de Matlab. 
 
 Hemos dividido los archivos por carpetas, de acuerdo a como aparecen en nuestras notas de clase. Cada carpeta contiene, a su vez, una breve descripcion de los modelos.
 
